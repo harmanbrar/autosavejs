@@ -5,4 +5,4 @@ This script uses the onBlur event attribute on form fields. The Idea is a text b
 
 It should guarantee order using the timeout function and queue.
 
-It might just a glorified event handler if you have other suggestions on improving it or another way of a implementing a autosave please let me know I'm always open and willing to learn!. 
+It might just be a glorified event handler. If you have other suggestions on improving it or another way of a implementing a autosave please let me know I'm always open and willing to learn!. 
